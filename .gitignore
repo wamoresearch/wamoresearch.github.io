@@ -1,6 +1,7 @@
 /nikola-env
 
 # Nikola output:
-**/.doit.db
-**/__pycache__/
-**/cache/
+.doit.db
+__pycache__/
+cache/
+output
