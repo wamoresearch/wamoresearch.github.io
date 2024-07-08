@@ -25,16 +25,16 @@ Information
 
 On this page you can find information about
 
-1. Research Areas
+1. `Research Areas <./research-areas>`_
 
-2. Members
+2. `Members <./members>`_
 
-3. Research Grants
+3. `Research Grants <./research-grants>`_
 
-4. Our Collaborators
+4. `Our Collaborators <./collaborators>`_
 
-5. Seminars
+5. `Seminars <./seminars>`_
 
-6. Publications
+6. `Publications <./publications>`_
 
-7. Contact us
+7. `Contact us <./contact>`_
