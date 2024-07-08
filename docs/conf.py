@@ -33,9 +33,12 @@ DEFAULT_LANG = "en"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/index.html", "Home"),
+        ("/members", "Members"),
+        ("/research-areas", "Research Areas"),
+        ("/publications", "Publications"),
+        ("/seminars", "Seminars"),
+        # ("/rss.xml", "RSS feed"),
     ),
 }
 

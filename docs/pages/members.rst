@@ -9,5 +9,43 @@
 
 Our group has the following members. We will also list Guests to our group here.
 
-Permanent Members
-----------------------
+=======
+ Staff
+=======
+
+- Gregor Tanner
+- Stephen Creagh
+- Sven Gnutzmann
+- Martin Richter
+- Sendy Phang
+
+=====================
+ Research Associates
+=====================
+
+—
+
+==============
+ PhD Students
+==============
+
+- Tristan Lawrie
+- Joshua Finn
+- Rory Collett
+- Samuel Palama
+
+===================
+ Research Visitors
+===================
+
+—
+
+================
+ Former Members
+================
+
+- Gabriele Gradoni
+- Dimitrios Chronopoulos
+- Neekar Mohammed
+- Valon Blakaj
+- Nurkanat Aimakov
