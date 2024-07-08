@@ -4,4 +4,4 @@
 docs/.doit.db
 docs/__pycache__/
 docs/cache/
-docs/output/
+/output/
