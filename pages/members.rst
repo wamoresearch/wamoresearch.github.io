@@ -34,6 +34,8 @@ Our group has the following members. We will also list Guests to our group here.
 - Joshua Finn
 - Rory Collett
 - Samuel Palama
+- Hakan Yadsan
+- Hamid Mohaddes
 
 ..
    ===================
@@ -51,3 +53,4 @@ Our group has the following members. We will also list Guests to our group here.
 - Neekar Mohammed
 - Valon Blakaj
 - Nurkanat Aimakov
+- Timo Hartmann
