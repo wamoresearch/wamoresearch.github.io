@@ -19,11 +19,12 @@ Our group has the following members. We will also list Guests to our group here.
 - Martin Richter
 - Sendy Phang
 
-=====================
- Research Associates
-=====================
+..
+   =====================
+    Research Associates
+   =====================
 
-—
+   —
 
 ==============
  PhD Students
@@ -34,11 +35,12 @@ Our group has the following members. We will also list Guests to our group here.
 - Rory Collett
 - Samuel Palama
 
-===================
- Research Visitors
-===================
+..
+   ===================
+    Research Visitors
+   ===================
 
-—
+   —
 
 ================
  Former Members
