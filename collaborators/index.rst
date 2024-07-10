@@ -10,3 +10,13 @@
 Here are some of our closer collaborators. If you would like to get in contact
 to discuss science or work on something together, please `contact us
 <../contact>`_.
+
+..
+   TODO: Links!
+
+- Matelys
+
+- DLR
+
+- Naval Group
+
