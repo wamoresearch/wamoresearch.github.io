@@ -48,6 +48,9 @@ Our group has the following members. We will also list Guests to our group here.
  Former Members
 ================
 
+..
+   TODO: Add affiliation / links
+
 - Gabriele Gradoni
 - Dimitrios Chronopoulos
 - Neekar Mohammed
