@@ -19,11 +19,12 @@ Our group has the following members. We will also list Guests to our group here.
 - Martin Richter
 - Sendy Phang
 
-=====================
- Research Associates
-=====================
+..
+   =====================
+    Research Associates
+   =====================
 
-—
+   —
 
 ==============
  PhD Students
@@ -33,19 +34,26 @@ Our group has the following members. We will also list Guests to our group here.
 - Joshua Finn
 - Rory Collett
 - Samuel Palama
+- Hakan Yadsan
+- Hamid Mohaddes
 
-===================
- Research Visitors
-===================
+..
+   ===================
+    Research Visitors
+   ===================
 
-—
+   —
 
 ================
  Former Members
 ================
+
+..
+   TODO: Add affiliation / links
 
 - Gabriele Gradoni
 - Dimitrios Chronopoulos
 - Neekar Mohammed
 - Valon Blakaj
 - Nurkanat Aimakov
+- Timo Hartmann
