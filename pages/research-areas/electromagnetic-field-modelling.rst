@@ -52,6 +52,7 @@ reconstruction and localization as well as emission source microscopy.
 
 Related Publications
 ====================
+
 - GRADONI, G., ARNAUT, L. R., CREAGH, S. C., TANNER, G., BAHARUDDIN, M. H., SMARTT, C. and THOMAS, D. W. P., June 2018. Wigner-Function-Based Propagation of Stochastic Field Emissions From Planar Electromagnetic Sources. IEEE Transactions on Electromagnetic Compatibility, Vol. 60, No. 3, pp. 580-588.
 - GRADONI, G., RAMAPRIYA, D. M., CREAGH, S. C., TANNER, G., BAHARUDDIN, M. H., NASSER, H., SMARTT, C. and THOMAS, D. W. P., December 2017. Near-Field Scanning and Propagation of Correlated Low-Frequency Radiated Emissions. IEEE Transactions on Electromagnetic Compatibility, DOI: 10.1109/TEMC.2017.2778046.
 - Propagating wave correlations in complex systems, S. C. Creagh, G. Gradoni, T. Hartmann and G. Tanner, Journal of Physics A 50, 045101 (2016)
@@ -115,6 +116,7 @@ funded by Telecom Italia Lab, Italy and the Office of Naval Research (ONR), USA.
 
 Related Publications
 ====================
+
 - H. Nasser et al., “High frequency propagation in large and multiply connected
   electromagnetic environments,” 2016 IEEE Metrology for Aerospace
   (MetroAeroSpace), Florence, 2016, pp. 342-347. [BEST CONFERENCE POSTER PAPER
@@ -169,6 +171,7 @@ chambers. Electromagnetic reverberation, born for performing robust and extreme
 tests in electromagnetic compatibility and recently used to emulate indoor and
 outdoor wireless environments, is now transitioning to become part of
 statistical physics. Current research efforts are dedicated to:
+
 - understanding the number of uncorrelated chamber realizations,
 - creating a physical model for the chamber lowest usable frequency,
 - studying dynamical effects associated with electromagnetic reverberation,
@@ -179,6 +182,7 @@ statistical physics. Current research efforts are dedicated to:
 
 Related Publications
 ====================
+
 - GRADONI, G., RUSSER, J., BAHARUDDIN, M. H., HAIDER, M., RUSSER, P., SMARTT, C., CREAGH, S. C., TANNER, G., and THOMAS, D. W. P., 2018, Stochastic Electromagnetic Field Propagation – Measurement and Modelling, Special Issue on Celebrating 125 years of Oliver Heaviside’s ‘Electromagnetic Theory’: physical and engineering science papers and historical perspectives, Royal Society Philosophical Transactions A, in press.
 - M. Migliaccio, G. Gradoni and L. R. Arnaut, “Electromagnetic Reverberation: The Legacy of Paolo Corona,” in IEEE Transactions on Electromagnetic Compatibility, vol. 58, no. 3, pp. 643-652, June 2016
 - L. R. Arnaut and G. Gradoni, “Probability Distribution of the Coherence Bandwidth of a Reverberation Chamber,” in IEEE Transactions on Antennas and Propagation, vol. 63, no. 5, pp. 2286-2290, May 2015.
