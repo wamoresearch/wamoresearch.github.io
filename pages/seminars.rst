@@ -60,4 +60,4 @@ Program
  Past Seminars
 ===============
 
-See: `Past Seminars <./seminars/past-seminars>`_
+See: `Past Seminars <./past-seminars>`_
