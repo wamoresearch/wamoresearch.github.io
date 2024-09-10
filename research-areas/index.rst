@@ -9,3 +9,11 @@
 
 We work at the interface between mathematics and engineering, applying methods
 from theoretical physics to mechanical or electrical engineering problems.
+
+- `Wave Chaos <./wave-chaos>`_
+
+- `Vibro-Acoustics at High Frequencies <./vibro-acoustics-at-high-frequencies>`_
+
+- `Electromagnetic Field Modelling <./electromagnetic-field-modelling>`_
+
+- `Optical and Photonic Systems <./optical-and-photonic-systems>`_

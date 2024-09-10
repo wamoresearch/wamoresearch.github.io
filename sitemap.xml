@@ -7,46 +7,86 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://wamoresearch.github.io/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/archive.html</loc>
-  <lastmod>2024-07-10T10:19:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/blog/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/categories/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/collaborators/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/contact/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/electromagnetic-field-modelling/</loc>
+  <lastmod>2024-09-10T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/galleries/</loc>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/listings/</loc>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/members/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/optical-and-photonic-systems/</loc>
+  <lastmod>2024-09-10T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/publications/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/research-areas/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/research-areas/electromagnetic-field-modelling/</loc>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/research-areas/optical-and-photonic-systems/</loc>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/research-areas/vibro-acoustics-at-high-frequencies/</loc>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/research-areas/wave-chaos/</loc>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/research-grants/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://wamoresearch.github.io/seminars/</loc>
-  <lastmod>2024-07-10T10:00:00Z</lastmod>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/vibro-acoustics-at-high-frequencies/</loc>
+  <lastmod>2024-09-10T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://wamoresearch.github.io/wave-chaos/</loc>
+  <lastmod>2024-09-10T09:58:00Z</lastmod>
  </url>
 </urlset>
