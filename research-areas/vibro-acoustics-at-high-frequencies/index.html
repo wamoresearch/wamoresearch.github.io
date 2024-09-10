@@ -14,7 +14,10 @@
 <meta property="og:site_name" content="Wave Modelling Research Group">
 <meta property="og:title" content="Vibro-Acoustics at High Frequencies">
 <meta property="og:url" content="https://wamoresearch.github.io/research-areas/vibro-acoustics-at-high-frequencies/">
-<meta property="og:description" content="Write your page here.">
+<meta property="og:description" content="Overview
+Modelling and simulation is becoming ever more important in designing mechanical
+structures –such as cars, airplanes or ships. Both the static and dynamic
+properties, but also the interaction">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2024-09-10T10:46:08+01:00">
 </head>
@@ -85,8 +88,181 @@
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <p>Write your page here.</p>
-    </div>
+    <section id="overview"><h2>Overview</h2>
+<p>Modelling and simulation is becoming ever more important in designing mechanical
+structures –such as cars, airplanes or ships. Both the static and dynamic
+properties, but also the interaction of a structure with the surrounding
+environment – be it aerodynamic properties or crash behaviour – is now routinely
+investigated through simulations. Virtual testing has thus become an essential
+part of the design cycle. In particular, the Finite Element Method (FEM) is used
+universally across industries and a range of sophisticated commercial software
+tools exist. There is also a need for modelling <em>noise and vibration</em> in the
+mid-to-high frequency regime, mostly for passenger safety and comfort. However,
+a straightforward application of FEM at high frequencies (starting for cars
+typically between 500Hz and 1kHz) is problematic as results become unreliable
+and the model sizes become prohibitively large. A new dynamical theory —
+<a class="reference external" href="https://en.wikipedia.org/wiki/Dynamical_energy_analysis">Dynamical Energy Analysis (DEA)</a> – can deal with the
+full complexity of the structure on a reasonable computational time scale and
+has the potential to make a full ray tracing approach viable for modelling
+structure-borne vibrations including reflection, transmission and shell effects.
+Integral formulations for the propagation of ray densities are thus becoming an
+interesting alternative to statistical approaches such as the <a class="reference external" href="https://en.wikipedia.org/wiki/Statistical_energy_analysis">Statistical
+Energy Analysis (SEA)</a> or similar Power
+Balance Methods due to their ability to work directly on FE-meshes – with a
+resulting ease of implementation. However, there is plenty of ground to cover
+before this method has been fully developed and its potential for applications
+has been exhausted.</p>
+</section><section id="dea-numerical-implementation"><h2>DEA – Numerical Implementation</h2>
+<p>In 2009 new approach called Dynamical Energy Analysis (DEA) has been proposed in
+Nottingham determining the distribution of mechanical and acousticwave energy in
+complex built-up structures. The technique interpolates between standard
+Statistical Energy Analysis (SEA) and full ray tracing containing both these
+methods as limiting cases. By writing the flow of ray trajectories in terms of
+linear phase space operators, it is suggested to reformulate ray-tracing
+algorithms in terms of boundary operators containing only short ray segments.
+SEA can now be identified as a low-resolution, ray-tracing algorithm and typical
+SEA assumptions can be quantified in terms of the properties of the ray
+dynamics. The new technique enhances the applicability of standard SEA
+considerably by systematically incorporating dynamical correlations wherever
+necessary. Some of the inefficiencies inherent in typical ray-tracing methods
+can be avoided using only a limited amount of the geometrical ray information.
+The new dynamical theory thus provides a universal approach towards determining
+wave energy distributions in complex structures in the high-frequency limit.</p>
+<section id="related-publications"><h3>Related Publications</h3>
+<ul class="simple">
+<li><p>High-frequency structure- and air-borne sound transmission for a tractor model
+using Dynamical Energy Analysis, Timo Hartmann, Satoshi Morita and Gregor
+Tanner, to appear in Wave Motion (2018)</p></li>
+<li><p>Boundary element Dynamical Energy Analysis: A versatile high-frequency method
+applicable for two or three dimensional problems, D. J. Chappell, and G.
+Tanner, Proc. 18th Int. Congress on Sound and Vibrations (ICSV18, Rio de
+Janeiro, 2011), 8 pages</p></li>
+<li><p>Dynamical energy analysis for built-up acoustic systems at high
+frequencies, D. J. Chappell, S. Giani and G. Tanner, Journal of the Acoustical
+Society of America 130, 1420 (2011)</p></li>
+<li><p>Dynamical Energy Analysis – determining wave energy distributions in
+vibro-acoustical structures in the high-frequency regime, G. Tanner, Journal
+of Sound and Vibration 320, issues 4-5,1023-1038 (2009)</p></li>
+</ul></section></section><section id="discrete-flow-mapping-technique-dfm-vibro-acoustics-on-fe-meshes"><h2>Discrete Flow Mapping Technique (DFM) – Vibro-acoustics on FE meshes</h2>
+<p>Simulations of the vibro-acoustic performance of automobiles are routinely
+carried out in various design stages. To understand the transmission of
+structure-borne sound in cars, it is necessary to have effective and efficient
+modelling tools to support the structural design process ideally before a
+prototype vehicle is built. The major difficulty in modelling structure-borne
+sound lies in the complex geometry of the car structure. The Finite Element
+Method (FEM) can describe geometric details of the car structure with sufficient
+accuracy in the low frequency region, typically below 500 Hz. High frequency
+analysis using FEM requires extremely fine meshes of the body structure to
+capture the shorter wavelengths and, at the current time, such analysis poses
+significant computational challenges. Dynamical Energy Analysis (DEA) combined
+with the Discrete Flow Mapping technique (DFM) has recently been introduced as a
+mesh-based high frequency method modelling structure borne sound for complex
+built-up structures. This has proven to enhance vibro-acoustic simulations
+considerably by making it possible to work directly on existing finite element
+meshes, circumventing time-consuming and costly re-modelling strategies. In
+addition, DFM provides detailed spatial information about the vibrational energy
+distribution within a complex structure in the mid-to-high frequency range.
+Progress in the development of the DEA method towards handling complex
+FEM-meshes including Rigid Body Elements has been achieved. In addition,
+structure borne transmission paths due to spot welds have been considered.</p>
+<section id="related-publications-1"><h3>Related Publications</h3>
+<ul class="simple">
+<li><p>BAJARS, J., CHAPPELL, D.J., HARTMANN, T. and TANNER, G., 2017. Improved
+Approximation of Phase-Space Densities on Triangulated Domains Using Discrete
+Flow Mapping with p-Refinement. Journal of Scientific Computing. ISSN
+0885-7474</p></li>
+<li><p>Comparison of Methods for Modelling Mid-to-High Frequency Vibro-Acoustic
+Energy Distributions in a Vehicle Floor Structure,</p></li>
+<li><p>T. Hartmann, G. Tanner, G. Xie and D. J. Chappell, SAE International,
+Technical Report 2016-01-1853 (doi: 10.4271/2016-01-1853), presented at 9th
+Int. Styrian Noise, Vibration &amp; Harshness Congress (ISNVH16).</p></li>
+<li><p>Transport of phase space densities through tetrahedral meshes using discrete
+flow mapping, J. Bajars, D. J. Chappell, N. Søendergaard and G. Tanner,
+Journal of Computational Physics 328, 95–108 (2016)</p></li>
+<li><p>Dynamical energy analysis on mesh grids – a new tool for describing the
+vibro-acoustic response of complex mechanical structures, D. J. Chappell, D.
+Löechel, N. Søndergaard and G. Tanner, Wave Motion 51, 589-597 (2014)</p></li>
+<li><p>Discrete flow mapping: transport of phase space densities on triangulated
+surfaces, D. J. Chappell, G. Tanner, D. Löchel and N. Søndergaard, Proceedings
+of the Royal Society A, 469 2155 20130153 (2013).</p></li>
+</ul></section></section><section id="structure-borne-sound-propagation-in-composites"><h2>Structure borne sound propagation in composites</h2>
+<p>Composites have superior structural characteristics compared to steel or
+aluminium, but can exhibit poorer dynamic and acoustic performance levels. The
+study of the acoustic transmission in such structures helps to understand how to
+reduce the noise footprint on aircrafts, for example. Existing methods of
+analysis such as Finite Element Method (FEM) and Statistical Energy Analysis
+(SEA) suffer from limitations when used for modelling geometrically complex
+structures in the high frequency regime. In that regard, a new method – Dynamic
+Energy Analysis (DEA) in the form of Discrete Flow Mapping is used for
+high-frequency vibration analysis of aircraft panels. Aircraft panels consist of
+elements that can be modelled as waveguides such as plates and cylinders coupled
+together through different types of joints. The coupling is represented in terms
+of reflection/transmission matrices that can be obtained by solving the wave
+equation numerically using the Wave Finite Element method (WFE). Then, by
+incorporating WFE coupling models into the DEA method we compute the acoustic
+energy distribution within the structure.</p>
+<section id="related-publications-2"><h3>Related Publications</h3>
+<ul class="simple">
+<li><p>Wave Scattering in Coupled Composite Plates, N. Aimakov, G. Tanner and D.
+Chronopoulos, NOVEM 2018, Ibiza, Spain.</p></li>
+</ul></section></section><section id="tunnelling-corrections-to-wave-transmissions-on-shell-structures"><h2>Tunnelling corrections to wave transmissions on shell structures</h2>
+<p>In the mid-to-high frequency regime, ray tracing in the form of DEA propagation
+is well suited for capturing the distribution of vibroacoustic energy in complex
+built-up structures. However, the effects of curvature can only be treated
+approximately. We present a method here that captures wave effects in a
+ray-tracing treatment on curved plates. The equations of a ray dynamics for
+energy transport on arbitrarily curved and inhomogeneous smooth thin shells
+canbe obtained via the Eikonal approximation from the underlying wave equations.
+We analyse mid-frequency effects below the ring frequency of curved plates for a
+cylindrical region smoothly connected to two flat plates using Donnell shell
+theory. We perform ray tracing based on Hamilton’s equations derived in the
+short wavelength regime for bending, shear and pressure incident waves. Rays
+incident on the curved shell struc-ture may be reflected or transmitted. Simple
+ray tracing gives either total reflection or total transmission; the solution of
+the full wave equations shows in contrast a smooth transition and exhibits
+resonant states in the waist of the cylindrical region. In one-dimension, both
+the smooth transition and the resonant states can be treated using the
+Wentzel-Kramers-Brillouin (WKB) approximation extended to complex rays. We use
+graph models to account for resonant tunnelling in such curved plates. For
+classically transmitted bending rays, we find complex rays which connect them to
+the resonant states that are formed in the curved region. Similarly, for
+classically reflected rays, we identify those complex rays that connect to the
+phase space of transmitting trajectories. We successfully find a theoretical
+expression for calculating the scattering matrix for bending rays which accounts
+for resonant tunnelling mediated by resonant states. Our model agrees well with
+full wave solutions.</p>
+<section id="related-publications-3"><h3>Related Publications</h3>
+<ul class="simple">
+<li><p>Tunnelling corrections to wave transmissions on shell structures, Neekar M.
+Mohammed, Stephen C. Creagh, Gregor Tanner and David J. Chappell, Proceedings
+of ISMA 2018, Leuven, Belgium (2018).</p></li>
+</ul></section></section><section id="uncertainty-quantification-of-phase-space-flow-methods"><h2>Uncertainty quantification of phase-space flow methods</h2>
+<p>Vibrational and acoustic energy distributions of wave fields in the high-
+frequency regime are often modeled using flow transport equations. In real live
+applications, the flow of rays or non-interacting particles is often driven by
+an uncertain force or velocity field and the dynamics are determined only up to
+a degree of uncertainty. A boundary integral equation description of wave energy
+flow along uncertain trajectories in finite two-dimensional domains has been
+developped, which is based on the truncated normal distribution, and
+interpolates between a deterministic and a completely random description of the
+trajectory propagation. The properties of the Gaussian probability density
+function appearing in the model are applied to derive expressions for the
+variance of a propagated initial Gaussian density in the weak noise case.
+Numerical experiments are performed to illustrate these findings and to study
+the properties of the stationary density, which is obtained in the limit of
+infinitely many reflections at the boundary.</p>
+<section id="related-publications-4"><h3>Related Publications</h3>
+<ul class="simple">
+<li><p>Uncertainty quantification for phase-space boundary integral models of ray
+propagation, David J. Chappell and Gregor Tanner, to appear in Wave Motion
+(2018).</p></li>
+<li><p>BAJARS, J. and CHAPPELL, D.J., 2018. A boundary integral method for modelling
+vibroacoustic energy distributions in uncertain built up structures. Journal
+of Computational Physics, 373, pp. 130-147. ISSN 0021-9991</p></li>
+<li><p>A boundary integral formalism for stochastic ray tracing in billiards, D. J.
+Chappell and G. Tanner, CHAOS 24, 043137 (2014)</p></li>
+</ul></section></section>
+</div>
     
 
 </article><!--End of body content--><footer id="footer">
