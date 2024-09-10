@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+`Back to current events <../>`_
+
 ==================
  2023-24 - Spring
 ==================

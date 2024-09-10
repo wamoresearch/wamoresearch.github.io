@@ -7,4 +7,6 @@
 .. description: 
 .. type: text
 
-In order to contact us, please write to …
+In order to contact us, please write to either `Gregor Tanner
+<mailto:gregor.tanner@nottingham.ac.uk>`_ or `Martin Richter
+<mailto:martin.richter@nottingham.ac.uk>`_.
