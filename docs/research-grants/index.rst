@@ -9,4 +9,8 @@
 
 We have secured the following *grants* in the past:
 
-- Grant 1
+- EPSRC project **xDEA — Vibro-acoustic energy flow in hybrid systems**
+  funded via EPSRC grant `EP/U536854/1
+  <https://gtr.ukri.org/projects?ref=EP/U536854/1>`_
+
+  This project is lead by the university of Salford.

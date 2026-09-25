@@ -14,28 +14,25 @@ Our group has the following members. We will also list Guests to our group here.
 =======
 
 - Gregor Tanner
-- Stephen Creagh
 - Sven Gnutzmann
 - Martin Richter
 - Sendy Phang
 
-..
-   =====================
-    Research Associates
-   =====================
+=====================
+ Research Associates
+=====================
 
-   —
+- Matthew King
 
 ==============
  PhD Students
 ==============
 
-- Tristan Lawrie
-- Joshua Finn
-- Rory Collett
-- Samuel Palama
 - Hakan Yadsan
 - Hamid Mohaddes
+- Morgan Callaghan
+- Rory Collett
+- Samuel Palama
 
 ..
    ===================
@@ -51,9 +48,11 @@ Our group has the following members. We will also list Guests to our group here.
 ..
    TODO: Add affiliation / links
 
-- Gabriele Gradoni
 - Dimitrios Chronopoulos
+- Gabriele Gradoni
+- Joshua Finn
 - Neekar Mohammed
-- Valon Blakaj
 - Nurkanat Aimakov
+- Stephen Creagh
 - Timo Hartmann
+- Valon Blakaj
