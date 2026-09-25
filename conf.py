@@ -36,6 +36,7 @@ NAVIGATION_LINKS = {
         ("/index.html", "Home"),
         ("/members", "Members"),
         ("/research-areas", "Research Areas"),
+        ("/research-grants", "Projects and Grants"),
         ("/publications", "Publications"),
         ("/seminars", "Seminars"),
         # ("/rss.xml", "RSS feed"),
