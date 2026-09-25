@@ -20,3 +20,9 @@ to discuss science or work on something together, please `contact us
 
 - Naval Group
 
+- `University of Salford <https://acoustics.salford.ac.uk/research/vibro-acoustics/>`_
+
+  We are working closely together on the EPSRC project
+  `xDEA — Vibro-acoustic energy flow in hybrid systems
+  <../research-grants/>`_.
+  
